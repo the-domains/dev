@@ -1,6 +1,6 @@
 name: Dev
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76877
 typography_spectrum: 0.16968593979254365
 title: Original Piano Compositions
 cta:
@@ -22,7 +22,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.9375
+  brandStrength: 0.875
   lightness: 0.5625
   saturation: 0.42667431011796
   rhythmicContrast: 0.75
