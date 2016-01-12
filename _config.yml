@@ -1,0 +1,28 @@
+name: Dev
+favicon: null
+layout_spectrum: 0.7145568891428411
+typography_spectrum: 0.16968593979254365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7204773216508329
+  lightness: 0.2731607402674854
+  saturation: 0.42667431011796
+  rhythmicContrast: 0.5487347890157253
+purpose: []
